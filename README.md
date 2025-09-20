@@ -1,16 +1,26 @@
-# money_expense_dot
+# Money Expense Dot
 
-A new Flutter project.
+A Flutter application to manage and track personal expenses. This project allows users to record, categorize, and view their daily and monthly expenses with a simple and clean interface.
+
+## Features
+
+- Add, edit, and delete expenses
+- Group expenses by category
+- View expenses by day or month
+- Display total amount per category
+- Responsive UI with Flutter ScreenUtil
+- Loading and empty state handling
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install) 3.x or above
+- Dart 3.x
+- Git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+```bash
+git clone git@github.com:rioalss/money_expense_dot.git

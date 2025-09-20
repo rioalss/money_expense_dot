@@ -1,0 +1,15 @@
+icons_launcher:
+  image_path: "assets/logo/logo-rectangle.png"
+  platforms:
+    android:
+      enable: true
+      image_path: "assets/logo/logo-rectangle.png"
+      
+      # adaptive_background_color: '#ffffff'
+      # adaptive_background_image: "assets/ic_background.png"
+      # adaptive_foreground_image: "assets/ic_foreground.png"
+      # adaptive_round_image: "assets/ic_logo_round.png"
+      # adaptive_monochrome_image: "assets/ic_logo_monochrome.png"
+    ios:
+      enable: true
+      image_path: "assets/logo/logo-rectangle.png"
